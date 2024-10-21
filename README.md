@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <img align="center" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash9696" alt="sash9696" /></a> </p>
-- 📄 Creator of Frontend Challenges - <a href="https://sash9696.github.io/frontend-coding-challenges/index.html"> Link </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=sash9696" alt="sash9696" /></a> </p>
+- 📄 Creator of Frontend Challenges - <a href="https://sash9696.github.io/frontend-coding-challenges/index.html" target="blank"> Link </a>
+
 - 🔭 I’m currently working on *Nextjs, Typescript, Reactjs, Javascript*.
 
 <!-- - 👨‍💻 All of my projects are available at [https://sahil-portfolio99.web.app/](https://sahil-portfolio99.web.app/) -->
