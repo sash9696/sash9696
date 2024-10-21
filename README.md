@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sash9696" alt="sash9696" /></a> </p>
-
+- 📄 Creator of Frontend Challenges - <a href="https://sash9696.github.io/frontend-coding-challenges/index.html"> Link </a>
 - 🔭 I’m currently working on *Nextjs, Typescript, Reactjs, Javascript*.
 
 <!-- - 👨‍💻 All of my projects are available at [https://sahil-portfolio99.web.app/](https://sahil-portfolio99.web.app/) -->
 
 - 💬 Ask me about *Frontend Development, DSA*.
 
-- 📫 How to reach me *sahilchopra838@gmail.com*
+- 📫 How to reach me *sahil.chopra9696@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dpz9SoB5mPcyPsigqf1DR-f98s2SLNCY/view?usp=drive_link](https://drive.google.com/file/d/1dpz9SoB5mPcyPsigqf1DR-f98s2SLNCY/view?usp=drive_link)
+- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/1ol5YVZU7lihiJ5q0eQ-mwdnwzY0N-r4p/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
