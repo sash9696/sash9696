@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=sash9696" alt="sash9696" /></a> </p>
-- 📄 Creator of Frontend Challenges - <a href="https://sash9696.github.io/frontend-coding-challenges/index.html" target="blank"> Link </a>
+
+📄 Creator of Frontend Challenges - <a href="https://sash9696.github.io/frontend-coding-challenges/index.html" target="blank"> Link </a>
+
 
 - 🔭 I’m currently working on *Nextjs, Typescript, Reactjs, Javascript*.
 
