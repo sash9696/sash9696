@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sahil Chopra</h1>
-<h3 align="center">Founding Software Engineer in GroundZero</h3>
+<h3 align="center">Senior Software Engineer in GroundZero</h3>
 
 <img align="center" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
